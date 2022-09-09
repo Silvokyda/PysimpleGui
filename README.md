@@ -14,6 +14,10 @@ Creating a simple graphical user interface (GUI) that works across multiple plat
 <p align="left"><img src="https://i.imgur.com/RzKac6z.png" /></p>
 <p><li>Run your code to output a window. Depending on the O.S you are using, the window pup ups will differ. </li></p>
 <p align="center"><img src="https://i.imgur.com/HCjPeIw.png" /></p>
+<p><li>Adding Buttons to the Window</li></p>
+<p align="center"><img src="https://i.imgur.com/8vWTyQ0.png" /></p>
+<li><p>You can customize you buttons giving them diffrent instructions</li></p>
+<p align="center"><img src="https://i.imgur.com/XF9pNkT.png" /></p>
 
 
      
