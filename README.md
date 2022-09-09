@@ -16,7 +16,7 @@ Creating a simple graphical user interface (GUI) that works across multiple plat
 <p align="center"><img src="https://i.imgur.com/HCjPeIw.png" /></p>
 <p><li>Adding Buttons to the Window</li></p>
 <p align="center"><img src="https://i.imgur.com/8vWTyQ0.png" /></p>
-<li><p>You can customize you buttons giving them diffrent instructions</li></p>
+<p><li>You can customize you buttons giving them diffrent instructions</li></p>
 <p align="center"><img src="https://i.imgur.com/XF9pNkT.png" /></p>
 
 
