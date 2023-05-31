@@ -42,7 +42,7 @@ Pip install PySimpleGUI
 14.window.close()
 ```
 <p align="center"><img src="https://i.imgur.com/8vWTyQ0.png" /></p>
-<p><li>You can customize you buttons giving them diffrent instructions</li></p>
+<p><li>You can customize the buttons giving them diffrent instructions</li></p>
 <p align="center"><img src="https://i.imgur.com/XF9pNkT.png" /></p>
 
 
